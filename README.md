@@ -18,5 +18,49 @@ anywhere and anytime.
     - Download and install Anaconda from [here](https://www.anaconda.com/products/distribution).
     - Follow the installation instructions on the website.
 
+ ### Setting Up the Project
+
+3. **Clone the Repository**
+    ```sh
+     (https://github.com/Sanjana7ramola/Air_drums-project.git)
+    ```
+
+4. **Navigate to the Project Directory**
+    ```sh
+    cd Air Drum-project
+    ```
+5. **Create a Conda Environment**
+    - Open Anaconda Prompt.
+    - Create a new environment:
+        ```sh
+        conda create --name Project python=3.x
+        ```
+    - Activate the environment:
+        ```sh
+        conda activate Project
+        ```
+6. **Install the Required Dependencies**
+    - Install the dependencies:
+        ```sh
+        pip install numpy opencv-python pygame
+        ```
+
+### Running the Project
+1. **Open Anaconda Prompt**
+2. **Activate the Conda Environment**
+    ```sh
+    conda activate myprojectenv
+    ```
+3. **Navigate to the Project Directory**
+    - Copy and paste the path of the project directory into the Anaconda Prompt.
+    ```sh
+    cd path/to/your/project-directory
+    ```
+4. **Run the Main Script**
+    ```sh
+    python Air_Drums.py
+    ```
+
+
 
 
