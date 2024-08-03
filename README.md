@@ -1,5 +1,5 @@
 # my project : Air drums- Playing drums using computer vision
- description : The project is to develop a virtual drumming system that enables aspiring 
+# description : The project is to develop a virtual drumming system that enables aspiring 
 drummers to practice and learn how to play the drums without the need for a physical drum 
 set. This system aims to use computer vision and real-time audio synthesis to translate the 
 movements of a user playing "air drums" into corresponding drum sounds, thereby 
@@ -7,4 +7,16 @@ providing an accessible, cost-effective, and space-efficient solution for drum t
 project leverages a laptop's built-in webcam to capture the user's motions, interpreting these 
 into accurate drumming audio outputs, thus making drumming practice possible virtually 
 anywhere and anytime.
+# Installation :
+### Prerequisites
+
+1. **Install Visual Studio Code (VS Code)**
+    - Download and install VS Code from [here](https://code.visualstudio.com/).
+    - Follow the installation instructions on the website.
+
+2. **Install Anaconda**
+    - Download and install Anaconda from [here](https://www.anaconda.com/products/distribution).
+    - Follow the installation instructions on the website.
+
+
 
