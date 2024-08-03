@@ -49,7 +49,7 @@ anywhere and anytime.
 1. **Open Anaconda Prompt**
 2. **Activate the Conda Environment**
     ```sh
-    conda activate myprojectenv
+    conda activate Project
     ```
 3. **Navigate to the Project Directory**
     - Copy and paste the path of the project directory into the Anaconda Prompt.
